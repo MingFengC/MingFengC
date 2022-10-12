@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @MingFengC
 - 👀 I’m interested in all things technology, coding and statistical learning
 
+[![Ming Feng's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://https://github.com/MingFengC/)
+
 Reach out to me 👍
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mingfengc825/)
