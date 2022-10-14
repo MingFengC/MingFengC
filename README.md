@@ -3,6 +3,8 @@
 
 ![Ming Feng's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingFengC&count_private=true&show_icons=true&theme=radical)
 
+[![Ming Feng's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MingFengC)](https://github.com/MingFengC/github-readme-stats)
+
 Reach out to me 👍
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mingfengc825/)
