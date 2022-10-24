@@ -6,7 +6,7 @@ I'm Ming Feng, a Data Science & Analytics undergrad from the National University
 
 #### Top Technologies
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]
 
 #### Github Stats
 ![Ming Feng's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingFengC&count_private=true&show_icons=true&theme=radical)
