@@ -1,5 +1,12 @@
-- 👋 Hi, I’m @MingFengC
+## Hi I'm Ming Feng
+
+I'm Ming Feng, a Data Science & Analytics undergrad from the National University of Singapore!
+
 - 👀 I’m interested in all things technology, coding and statistical learning
+
+#### Top Technologies
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 #### Github Stats
 ![Ming Feng's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingFengC&count_private=true&show_icons=true&theme=radical)
@@ -20,6 +27,9 @@ Other    5 mins          ░░░░░░░░░░░░░░░░░░�
 Reach out to me 👍
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mingfengc825/)
+
+#### Profile visits
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MingFengC.MingFengC)
 
 <!---
 MingFengC/MingFengC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
