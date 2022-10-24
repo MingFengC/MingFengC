@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @MingFengC
 - 👀 I’m interested in all things technology, coding and statistical learning
 
+#### Github Stats
 ![Ming Feng's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingFengC&count_private=true&show_icons=true&theme=radical)
 
+#### Top Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MingFengC&layout=compact&count_private=true&theme=radical)
 
 #### Coding Stats
@@ -14,7 +16,6 @@ Other    5 mins          ░░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-![Ming Feng's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MingFengC&langs_count=8&layout=compact&hide_border=true&theme=radical)
 
 Reach out to me 👍
 
