@@ -7,6 +7,12 @@
 
 #### Coding Stats
 <!--START_SECTION:waka-->
+
+```text
+Python   18 hrs 56 mins  █████████████████████████   99.51 %
+Other    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+```
+
 <!--END_SECTION:waka-->
 ![Ming Feng's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MingFengC&langs_count=8&layout=compact&hide_border=true&theme=radical)
 
