@@ -5,6 +5,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MingFengC&layout=compact&count_private=true&theme=radical)
 
+#### Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ![Ming Feng's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MingFengC&langs_count=8&layout=compact&hide_border=true&theme=radical)
 
 Reach out to me 👍
