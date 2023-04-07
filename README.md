@@ -18,7 +18,7 @@ I'm Ming Feng, a Data Science & Analytics undergrad from the National University
 <!--START_SECTION:waka-->
 
 ```text
-Other        1 hr 45 mins    ████████████░░░░░░░░░░░░░   48.00 %
+Other        1 hr 45 mins    ████████████░░░░░░░░░░░░░   47.99 %
 ```
 
 <!--END_SECTION:waka-->
