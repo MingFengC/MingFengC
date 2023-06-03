@@ -17,7 +17,7 @@ I'm Ming Feng, a Data Science & Analytics undergrad from the National University
 #### Coding Stats
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
