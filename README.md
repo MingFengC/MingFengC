@@ -18,11 +18,11 @@ I'm Ming Feng, a Data Science & Analytics undergrad from the National University
 <!--START_SECTION:waka-->
 
 ```txt
-Python     8 hrs 35 mins   ██████████████▓░░░░░░░░░░   58.09 %
-Ezhil      4 hrs 35 mins   ███████▓░░░░░░░░░░░░░░░░░   31.04 %
-Assembly   1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
-SQL        22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Other      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Python     7 hrs 42 mins   █████████████▓░░░░░░░░░░░   55.10 %
+Ezhil      4 hrs 35 mins   ████████▒░░░░░░░░░░░░░░░░   32.78 %
+Assembly   1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+Other      34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+SQL        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
