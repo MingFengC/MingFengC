@@ -18,9 +18,8 @@ I'm Ming Feng, a Data Science & Analytics undergrad from the National University
 <!--START_SECTION:waka-->
 
 ```txt
-Prolog   2 hrs 9 mins    █████████████████▓░░░░░░░   70.79 %
-Python   44 mins         ██████░░░░░░░░░░░░░░░░░░░   24.45 %
-Other    8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Prolog   2 hrs 9 mins    ███████████████████████▒░   93.69 %
+Other    8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
 ```
 
 <!--END_SECTION:waka-->
