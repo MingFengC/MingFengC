@@ -19,7 +19,7 @@ I'm Ming Feng, a Data Science & Analytics undergrad from the National University
 
 ```txt
 Python   15 hrs 30 mins  ███████████████████████░░   92.27 %
-Other    55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+Other    55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
 Bash     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 CSV      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 TOML     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
