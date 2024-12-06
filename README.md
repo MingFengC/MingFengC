@@ -18,8 +18,7 @@ I'm Ming Feng, a Data Science & Analytics undergrad from the National University
 <!--START_SECTION:waka-->
 
 ```txt
-YAML     0 secs          ██████████████████████▒░░   89.95 %
-Docker   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
